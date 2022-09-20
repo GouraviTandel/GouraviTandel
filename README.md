@@ -13,13 +13,14 @@ My Projects
 
 **Exploratory Data Analysis of  7+ Million Company Dataset : [Link](https://jovian.ai/gouravitandel1945/eda-european-restaurants) [Blog](https://medium.com/jovianml/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2)**
 
-* Cleaned data for 7+ million containing 11 columns and analyzed data by taking a sample of 10,000 rows using Pandas
-* Created visualizations (scatter plots, Bar charts, Treemap, etc.) using Seaborn & Plotly
-* Discovered United States is contributing to 53% of industries around the world and India is the 2nd largest country in IT industries.
+* Analyzed 1+ Millions rows of restaurants containing 42 columns using Pandas
+* Visualized (scatter plots, Sunburst chart, Treemap, Choropleth Map, etc.) using Seaborn & Plotly
+* Discovered that most of the award-winning European restaurants have a price range between €5-€20
+
 
 **Web Scrapping of the Insurance Company [Link](https://jovian.ai/gouravitandel1945/web-scraping-bookmyshow) [Blog](https://medium.com/jovianml/scraping-bookmyshow-movie-details-using-python-aa0ff653ca41)**
 
-* Scrapped 526 Insurance companies from 53 pages of the same website value.today.
-* The scrapping was done using python libraries such as Requests, Beautifulsoup, etc.
-* The scrapped data was stored in a CSV file to be accessed for processing.
+* Scrapped 10 Popular Cities &,1588 Other Cities from BookMyShow using Selenium, kora, Pandas.
+* Built functions such as get_WebElement_for_Ratings, get_WebElement_Movie() to scrape details such as City Name, Movie Name, Ratings, Censor Rating, Language, Booking URL
+* Stored data consisting of 170 rows x 8 columns and into Movies_Data.csv using Pandas
 
