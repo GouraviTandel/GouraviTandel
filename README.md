@@ -4,7 +4,7 @@
 **GouraviTandel/GouraviTandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Gouravi Tandel :wave:
-## Hi there,I am Gouravi Tandel 👋
+Hi there,I am Gouravi Tandel 👋
 
 I have completed
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
