@@ -9,7 +9,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
 
-My Projects
+### My Projects
 
 **Predicting Walmart Weekly Sales using Machine Learning: ** [Link]([https://jovian.ai/gouravitandel1945/eda-european-restaurants](https://jovian.ai/gouravitandel1945/ml-project)) [Blog]([https://medium.com/jovianml/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2](https://medium.com/jovianml/predicting-walmart-weekly-sales-265a98af05d1))**
 
