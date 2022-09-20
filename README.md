@@ -11,14 +11,21 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 My Projects
 
-**Exploratory Data Analysis of  7+ Million Company Dataset : [Link](https://jovian.ai/gouravitandel1945/eda-european-restaurants) [Blog](https://medium.com/jovianml/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2)**
+**Predicting Walmart Weekly Sales using Machine Learning: ** [Link]([https://jovian.ai/gouravitandel1945/eda-european-restaurants](https://jovian.ai/gouravitandel1945/ml-project)) [Blog]([https://medium.com/jovianml/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2](https://medium.com/jovianml/predicting-walmart-weekly-sales-265a98af05d1))**
+
+* Cleaned & analyzed retail store dataset with 420,000+ rows & 16 columns to predict weekly sales 
+* Trained Linear models, Random Forests, and Gradient Boosted trees using scikit-learn & XGBoost 
+* Achieved a weighted mean absolute error of $3,160 landing in the top 30% on Kaggle Leaderboard
+
+
+**Exploratory Data Analysis and Visualization of  European restaurants on TripAdvisor : [Link](https://jovian.ai/gouravitandel1945/eda-european-restaurants) [Blog](https://medium.com/jovianml/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2)**
 
 * Analyzed 1+ Millions rows of restaurants containing 42 columns using Pandas
 * Visualized (scatter plots, Sunburst chart, Treemap, Choropleth Map, etc.) using Seaborn & Plotly
 * Discovered that most of the award-winning European restaurants have a price range between €5-€20
 
 
-**Web Scrapping of the Insurance Company [Link](https://jovian.ai/gouravitandel1945/web-scraping-bookmyshow) [Blog](https://medium.com/jovianml/scraping-bookmyshow-movie-details-using-python-aa0ff653ca41)**
+**Web Scrapping BookMyShow Website [Link](https://jovian.ai/gouravitandel1945/web-scraping-bookmyshow) [Blog](https://medium.com/jovianml/scraping-bookmyshow-movie-details-using-python-aa0ff653ca41)**
 
 * Scrapped 10 Popular Cities &,1588 Other Cities from BookMyShow using Selenium, kora, Pandas.
 * Built functions such as get_WebElement_for_Ratings, get_WebElement_Movie() to scrape details such as City Name, Movie Name, Ratings, Censor Rating, Language, Booking URL
