@@ -1,4 +1,4 @@
-### Hi there 👋
+- ### Hi there 👋
 
 <!--
 **GouraviTandel/GouraviTandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Gouravi :wave:
-Hi there 
+# Gouravi Tandel :wave:
+Hi there,I am Gouravi Tandel 👋
 
 I have completed
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
