@@ -31,3 +31,18 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 * Built functions such as get_WebElement_for_Ratings, get_WebElement_Movie() to scrape details such as City Name, Movie Name, Ratings, Censor Rating, Language, Booking URL
 * Stored data consisting of 170 rows x 8 columns and into Movies_Data.csv using Pandas
 
+<h3 align="left">Languages and Tools:</h3>
+
+1) Python
+2) SQL
+3) Alteryx
+4) Tableau
+5) Qlikview
+
+<h3 align="left">Certification:</h3>
+
+
+
+
+
+
