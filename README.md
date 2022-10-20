@@ -41,6 +41,10 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 <h3 align="left">Certification:</h3>
 
+1) Alteryx Core Developer
+2) Alteryx Advanced Designer
+3) OracleOCP Java SE 6 Programmer
+4) Oracle Database 11g SQL Fundamentals 1 Certification
 
 
 
