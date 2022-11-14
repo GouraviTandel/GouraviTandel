@@ -9,9 +9,17 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
 
+<h3 align="left">Languages and Tools:</h3>
+
+1) Python
+2) SQL
+3) Alteryx
+4) Tableau
+5) Qlikview
+
 ### My Projects
 
-**Predicting Walmart Weekly Sales using Machine Learning: ** [Link]([https://jovian.ai/gouravitandel1945/eda-european-restaurants](https://jovian.ai/gouravitandel1945/ml-project)) [Blog]([https://medium.com/jovianml/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2](https://medium.com/jovianml/predicting-walmart-weekly-sales-265a98af05d1))**
+**Predicting Walmart Weekly Sales using Machine Learning: ** [Link](https://jovian.ai/gouravitandel1945/ml-project) [Blog]([https://medium.com/jovianml/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2](https://medium.com/jovianml/predicting-walmart-weekly-sales-265a98af05d1))**
 
 * Cleaned & analyzed retail store dataset with 420,000+ rows & 16 columns to predict weekly sales 
 * Trained Linear models, Random Forests, and Gradient Boosted trees using scikit-learn & XGBoost 
@@ -30,14 +38,6 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 * Scrapped 10 Popular Cities &,1588 Other Cities from BookMyShow using Selenium, kora, Pandas.
 * Built functions such as get_WebElement_for_Ratings, get_WebElement_Movie() to scrape details such as City Name, Movie Name, Ratings, Censor Rating, Language, Booking URL
 * Stored data consisting of 170 rows x 8 columns and into Movies_Data.csv using Pandas
-
-<h3 align="left">Languages and Tools:</h3>
-
-1) Python
-2) SQL
-3) Alteryx
-4) Tableau
-5) Qlikview
 
 <h3 align="left">Certification:</h3>
 
