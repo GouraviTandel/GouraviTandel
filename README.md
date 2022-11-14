@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gouravi Tandel</h1>
 <h3 align="center">A passionate data science practitioner and Open to Python ML Opportunity.</h3>
 
-[Personal Website](https://https://medium.com/@gouraviTandel)
-
 ### I have completed
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
