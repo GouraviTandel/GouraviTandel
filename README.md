@@ -17,7 +17,7 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 ### My Projects
 
-**Predicting Walmart Weekly Sales using Machine Learning: ** [Link](https://jovian.ai/gouravitandel1945/ml-project) [Blog]([https://medium.com/jovianml/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2](https://medium.com/jovianml/predicting-walmart-weekly-sales-265a98af05d1))**
+**Predicting Walmart Weekly Sales using Machine Learning: [Link](https://jovian.ai/gouravitandel1945/ml-project) [Blog]([https://medium.com/jovianml/analyzing-1-million-european-restaurants-from-tripadvisor-9ef5d1b690a2](https://medium.com/jovianml/predicting-walmart-weekly-sales-265a98af05d1))**
 
 * Cleaned & analyzed retail store dataset with 420,000+ rows & 16 columns to predict weekly sales 
 * Trained Linear models, Random Forests, and Gradient Boosted trees using scikit-learn & XGBoost 
