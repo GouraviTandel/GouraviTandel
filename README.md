@@ -9,10 +9,7 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 <h3 align="left">Languages and Tools:</h3>
 
-![download](https://user-images.githubusercontent.com/47203436/202221209-99eea5e5-d9cd-4fac-99a4-6bed7ab74854.jpg)![download](https://user-images.githubusercontent.com/47203436/202221916-c6feb063-55f1-4a9d-86bc-ae3317bf3f7c.jpg)
-3) Alteryx![download](https://user-images.githubusercontent.com/47203436/202222064-787dd6df-e782-40be-a48f-9aaa2088ff89.jpg)
-4) Tableau![download](https://user-images.githubusercontent.com/47203436/202222262-5763284d-a762-4777-b11e-643eb5266479.jpg)
-
+![download](https://user-images.githubusercontent.com/47203436/202221209-99eea5e5-d9cd-4fac-99a4-6bed7ab74854.jpg)![download](https://user-images.githubusercontent.com/47203436/202221916-c6feb063-55f1-4a9d-86bc-ae3317bf3f7c.jpg)![download](https://user-images.githubusercontent.com/47203436/202222064-787dd6df-e782-40be-a48f-9aaa2088ff89.jpg)![download](https://user-images.githubusercontent.com/47203436/202222262-5763284d-a762-4777-b11e-643eb5266479.jpg)![download](https://user-images.githubusercontent.com/47203436/202222885-775af71c-0af3-4376-b800-4ecbab80e86d.jpg)
 
 ### My Projects
 
