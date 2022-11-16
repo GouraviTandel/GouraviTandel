@@ -9,9 +9,10 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 <h3 align="left">Languages and Tools:</h3>
 
-1) Python
+1) Python![download](https://user-images.githubusercontent.com/47203436/202221209-99eea5e5-d9cd-4fac-99a4-6bed7ab74854.jpg)
 2) SQL
 3) Alteryx
+
 4) Tableau
 5) Qlikview
 
